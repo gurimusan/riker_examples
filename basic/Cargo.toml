@@ -1,0 +1,9 @@
+[package]
+name = "basic"
+version = "0.0.1"
+authors = ["gurimusan <gurimusan@gmail.com>"]
+edition = '2018'
+
+[dependencies]
+riker = "0.3"
+log = "0.4"
